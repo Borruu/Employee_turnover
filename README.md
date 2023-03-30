@@ -1,17 +1,14 @@
-# Project1-DAbootcamp-Grp2
+# What makes employees leave: A tale of two organisations
 
-# Project Title: 
-What makes employees leave: A tale of two organisations
-
-# Team Members:
+## Team Members:
 Brianna O'Connor, Shannon Chen
 
-# Project Description: 
+## Project Description: 
 The cost of hiring, training and onboarding new employees often exceeds the cost of retaining existing workers. Despite this, most organisations tend to turn a blind eye to what might be causing their best and brightest to leave. 
 
 In this project, we seek to uncover what aspects of human resource management may contribute to staff turnover in two separate anonymised organisations. We have come up with a set of research questions about how factors such as salary, tenure, department, duration in a specific role, performance management, and workload may influence an employee’s decision to leave. From our analysis, we also hope to examine whether similar trends emerge across both organisations.
 
-# Datasets Used:
+## Datasets Used:
 
 1) EmployeeAttrition.csv (renamed from 'train_data.csv). Source: https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition?select=train_data.csv 
 
@@ -43,7 +40,7 @@ Variables in HR_comma_sep.csv:
 > sales (Contains information about departments sales, accounting, support etc..);
 > salary (low, medium, high)
 
-# Packages Used:
+## Packages Used:
 
 pandas
 
@@ -55,9 +52,9 @@ numpy
 
 datetime
 
-# Working Jupyter notebooks for Exploratory Data Analysis:
+## Working Jupyter notebooks for Exploratory Data Analysis:
 
-## In 01_Data
+### In 01_Data
 
 1. HRcomma_clean.ipynb
 2. EmployeeAttrition_data_clean.ipynb
